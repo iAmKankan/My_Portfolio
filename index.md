@@ -1,3 +1,10 @@
+# My_Portfolio
+My Data Science, Bigdata projects and tutorials on Java Python, Scala, Spark and Data Scienc
+
+
+
+
+
 ## Index
 ![Dark](https://user-images.githubusercontent.com/12748752/126914729-75e0fed5-fdaa-4216-81c8-719340e80694.png)
 ### [ _Exploratory Data Analysis_(EDA) _and Preprocessing_](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/tree/main/eda)
